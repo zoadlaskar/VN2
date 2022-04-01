@@ -12,5 +12,5 @@ TODO
 
 ## Do you have any questions of your own?
 I don't have any idea how to use renpy and when i download it. It does not seem to work.
-Also the visual novel medium is honestly always tends to get dark. Is that okay for this project not saying I'm going to but that's how visual novels just are a lot of the times.
+Also the visual novel medium always tends to get dark. Is that okay for this project not saying I'm going to but that's how visual novels just are a lot of the times.
 TODO
